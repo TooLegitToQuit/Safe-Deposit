@@ -1,3 +1,4 @@
 This is a big yellow one
 The most yellow one?
 Sure! and is there a space named ‘space’ or ‘index’ in .git?
+The excellent feature of git is that git tracks & managers changes, rather than files
