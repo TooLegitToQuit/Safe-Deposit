@@ -1,2 +1,2 @@
 # SafeDeposit
-Buy 7 additional bank slots.
+Buy 7 additional bank slots. 
