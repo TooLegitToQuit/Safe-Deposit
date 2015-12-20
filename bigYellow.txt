@@ -4,4 +4,4 @@ Sure! and is there a space named ‘space’ or ‘index’ in .git?
 The excellent feature of git is that git tracks & managers changes, rather than files
 Fix again to test if the changes within Index will be commited
 There is also a big black one!
-There are big yellow one & big black one
+The are big yellow one and big black one!
