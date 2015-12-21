@@ -6,3 +6,4 @@ Fix again to test if the changes within Index will be commited
 There is also a big black one!
 The are big yellow one and big black one!
 Words from branch orcish
+fix bug 318
